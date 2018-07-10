@@ -265,8 +265,6 @@ rect(width/2.36-plus/2,height*0.905,width/6.5+plus-player.damage,height*0.03,100
 
 if(index.pulses>2)
 index.pulses-=0.02;
-
-console.log(index.pulse);
 }
 
 
